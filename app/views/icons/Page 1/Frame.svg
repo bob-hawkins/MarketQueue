@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="115px" height="1px" viewBox="0 0 115 1" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M637 416L637 416L637 417L522 417L522 416L637 416Z" id="path_1" />
+    <path d="M347 0L347 0L347 185L0 185L0 0L347 0Z" id="path_2" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip_2">
+      <use xlink:href="#path_2" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="Frame">
+    <path d="M637 416L637 416L637 417L522 417L522 416L637 416Z" id="Frame" fill="none" stroke="none" />
+    <g id="Frame" clip-path="url(#clip_1)">
+      <path d="M347 0L347 0L347 185L0 185L0 0L347 0Z" id="Frame" fill="none" stroke="none" transform="translate(115 0)" />
+    </g>
+  </g>
+</svg>

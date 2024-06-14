@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="347px" height="185px" viewBox="0 0 347 185" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M65 175L65 175L65 360L-282 360L-282 175L65 175Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="Frame">
+    <path d="M65 175L65 175L65 360L-282 360L-282 175L65 175Z" id="Frame" fill="none" stroke="none" />
+  </g>
+</svg>

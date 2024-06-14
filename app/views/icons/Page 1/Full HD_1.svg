@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="1920px" height="1080px" viewBox="0 0 1920 1080" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB" id="filter_1">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 128 0" />
+      <feOffset dx="0" dy="0" />
+      <feGaussianBlur stdDeviation="0" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0.8901961 0 0 0 0 0.7294118 0 0 0 0 0.15294118 0 0 0 0.49803922 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect0_dropShadow" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect0_dropShadow" result="shape" />
+    </filter>
+    <path d="M1920 0L1920 0L1920 1080L0 1080L0 0L1920 0Z" id="path_1" />
+    <path d="M32 0L32 0L32 32L0 32L0 0L32 0Z" id="path_2" />
+    <path d="M57 0L57 0L57 8L0 8L0 0L57 0Z" id="path_3" />
+    <path d="M115 0L115 0L115 1L0 1L0 0L115 0Z" id="path_4" />
+    <path d="M347 0L347 0L347 185L0 185L0 0L347 0Z" id="path_5" />
+    <path d="M1203 540C1224.54 540 1242 557.458 1242 579L1242 768C1242 789.542 1224.54 807 1203 807L875 807C853.458 807 836 789.542 836 768L836 579C836 557.458 853.458 540 875 540L1203 540Z" id="path_6" />
+    <path d="M0 0L343 0L343 192L0 192L0 0Z" id="path_7" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip_2">
+      <use xlink:href="#path_2" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip_3">
+      <use xlink:href="#path_3" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip_4">
+      <use xlink:href="#path_4" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip_5">
+      <use xlink:href="#path_5" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip_6">
+      <use xlink:href="#path_6" />
+    </clipPath>
+    <clipPath id="clip_7">
+      <use xlink:href="#path_7" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="Full HD">
+    <path d="M1920 0L1920 0L1920 1080L0 1080L0 0L1920 0Z" id="Full-HD" fill="#FFFFFF" stroke="none" />
+    <g id="Close" clip-path="url(#clip_1)">
+      <path d="M32 0L32 0L32 32L0 32L0 0L32 0Z" id="Close" fill="none" stroke="none" transform="translate(919 389)" />
+      <path d="M7.21875 5.78125L5.78125 7.21875L14.5625 16L5.78125 24.7813L7.21875 26.2188L16 17.4375L24.7813 26.2188L26.2188 24.7813L17.4375 16L26.2188 7.21875L24.7813 5.78125L16 14.5625L7.21875 5.78125Z" id="Shape" fill="#FFFFFF" stroke="none" clip-path="url(#clip_2)" transform="translate(919 389)" />
+    </g>
+    <g id="Frame" clip-path="url(#clip_1)">
+      <path d="M57 0L57 0L57 8L0 8L0 0L57 0Z" id="Frame" fill="none" stroke="none" transform="translate(862 189)" />
+    </g>
+    <g id="Frame" clip-path="url(#clip_1)">
+      <path d="M115 0L115 0L115 1L0 1L0 0L115 0Z" id="Frame" fill="none" stroke="none" transform="translate(804 241)" />
+      <g id="Frame" clip-path="url(#clip_4)" transform="translate(804 241)">
+        <path d="M347 0L347 0L347 185L0 185L0 0L347 0Z" id="Frame" fill="none" stroke="none" transform="translate(115 0)" />
+      </g>
+    </g>
+    <g id="Rectangle" clip-path="url(#clip_1)">
+      <use stroke="none" fill="#FFFFFF" xlink:href="#path_6" />
+      <g clip-path="url(#clip_6)">
+        <use xlink:href="#path_6" fill="none" stroke="#CA9E04" stroke-width="8" />
+      </g>
+    </g>
+    <g id="M.Q" clip-path="url(#clip_7)" transform="translate(873 568)">
+      <g transform="translate(0, 45.054688)" id="M.Q" fill="#3B5998" filter="url(#filter_1)">
+        <path d="M140.41 156.38L120.197 156.38L120.197 90.4951L84.6318 153.063Q83.3203 155.454 80.9673 156.688Q78.6143 157.923 75.9141 157.923Q73.291 157.923 71.0151 156.688Q68.7393 155.454 67.4277 153.063L31.708 90.4951L31.708 156.38L11.6494 156.38L11.6494 54.3125Q11.6494 50.8408 13.6938 48.1406Q15.7383 45.4404 19.0557 44.5146Q20.6758 44.1289 22.2959 44.2446Q23.916 44.3604 25.4204 44.939Q26.9248 45.5176 28.1592 46.5591Q29.3936 47.6006 30.2422 49.0664L75.9141 128.452L121.586 49.0664Q123.36 46.1348 126.485 44.9004Q129.609 43.666 133.004 44.5146Q136.244 45.4404 138.327 48.1406Q140.41 50.8408 140.41 54.3125L140.41 156.38ZM178.213 146.273Q178.213 148.356 177.403 150.169Q176.593 151.982 175.243 153.333Q173.893 154.683 172.08 155.454Q170.267 156.226 168.261 156.226Q166.178 156.226 164.365 155.454Q162.552 154.683 161.202 153.333Q159.852 151.982 159.08 150.169Q158.309 148.356 158.309 146.273Q158.309 144.268 159.08 142.455Q159.852 140.642 161.202 139.292Q162.552 137.941 164.365 137.131Q166.178 136.321 168.261 136.321Q170.267 136.321 172.08 137.131Q173.893 137.941 175.243 139.292Q176.593 140.642 177.403 142.455Q178.213 144.268 178.213 146.273ZM310.908 111.634Q310.908 119.349 308.864 126.176Q306.819 133.004 303.078 138.559Q299.336 144.113 294.051 148.279Q288.767 152.445 282.286 154.837L305.739 173.43L276.654 173.43L257.367 157.923L237.617 157.923Q227.665 157.923 219.179 154.49Q210.692 151.057 204.521 144.885Q198.349 138.713 194.838 130.227Q191.328 121.74 191.328 111.634L191.328 90.4951Q191.328 80.4658 194.838 71.9409Q198.349 63.416 204.521 57.2827Q210.692 51.1494 219.179 47.6777Q227.665 44.2061 237.617 44.2061L264.773 44.2061Q274.726 44.2061 283.173 47.6777Q291.621 51.1494 297.793 57.2827Q303.965 63.416 307.437 71.9409Q310.908 80.4658 310.908 90.4951L310.908 111.634ZM290.85 90.4951Q290.85 84.5547 288.959 79.7329Q287.069 74.9111 283.636 71.478Q280.203 68.0449 275.381 66.1548Q270.56 64.2647 264.773 64.2646L237.617 64.2646Q231.754 64.2646 226.932 66.1548Q222.11 68.0449 218.639 71.478Q215.167 74.9111 213.277 79.7329Q211.387 84.5547 211.387 90.4951L211.387 111.634Q211.387 117.574 213.277 122.396Q215.167 127.218 218.639 130.651Q222.11 134.084 226.932 135.974Q231.754 137.864 237.617 137.864L264.619 137.864Q270.482 137.864 275.304 135.974Q280.126 134.084 283.598 130.651Q287.069 127.218 288.959 122.396Q290.85 117.574 290.85 111.634L290.85 90.4951Z" />
+      </g>
+    </g>
+  </g>
+</svg>

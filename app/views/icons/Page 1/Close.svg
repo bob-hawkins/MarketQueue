@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M554 416L554 416L554 448L522 448L522 416L554 416Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="Close">
+    <path d="M554 416L554 416L554 448L522 448L522 416L554 416Z" id="Close" fill="none" stroke="none" />
+    <path d="M7.21875 5.78125L5.78125 7.21875L14.5625 16L5.78125 24.7813L7.21875 26.2188L16 17.4375L24.7813 26.2188L26.2188 24.7813L17.4375 16L26.2188 7.21875L24.7813 5.78125L16 14.5625L7.21875 5.78125Z" id="Shape" fill="#FFFFFF" stroke="none" clip-path="url(#clip_1)" />
+  </g>
+</svg>

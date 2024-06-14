@@ -1,0 +1,7 @@
+{
+    "require": {
+        "ramsey/uuid": "^4.7",
+        "phpmailer/phpmailer": "^6.9",
+        "pear/http_request2": "^2.6"
+    }
+}
