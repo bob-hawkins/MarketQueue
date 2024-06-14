@@ -17,13 +17,13 @@ class Mail {
         $this->mail->isSMTP();
         $this->mail->Host       = 'smtp.gmail.com';
         $this->mail->SMTPAuth   = true;
-        $this->mail->Username   = 'bobteststuffonline@gmail.com';
-        $this->mail->Password   = 'erfz sfxc wmbp bwhh';
+        $this->mail->Username   = SMTP_USER;
+        $this->mail->Password   = SMTP_PASS;
         $this->mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
         $this->mail->Port       = 465;                                    
     
         //Sender
-        $this->mail->setFrom('bobteststuffonline@gmail.com', 'clientele');
+        $this->mail->setFrom(SMTP_USER, 'Market Queue');
         
     }
 
