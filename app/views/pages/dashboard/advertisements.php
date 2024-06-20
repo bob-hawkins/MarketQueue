@@ -22,17 +22,7 @@
 </div>
 
 <form action="<?php echo APP_URL; ?>/companies/advertisements/send" method="post" class="max-w-lg mt-4 mx-auto p-4 mb-10">
-    <!-- <h1 class="text-center text-xl my-4 font-bold" id="addCustomer"></h1> -->
-    <!-- <div class="w-full pt-4">
-        <input type="text" name="stock" class="border-l-4 border-l-blue-800 p-4 w-full outline-none bg-[#B9CFF8] placeholder-[#3B5998]" placeholder="Name of Stock">
-    </div> -->
-    <!-- <div class="w-full pt-4">
-        <select name="tag" class="p-4 w-full border-l-4 border-l-blue-800 outline-none bg-[#B9CFF8] text-[#3B5998]">
-            <option value="" disabled selected>Select a tag</option>
-            <option value="discount">Discount</option>
-            <option value="new">New</option>
-        </select>
-    </div> -->
+   
     <div class="w-full pt-4">
         <input type="number" name="limit" class="p-4 w-full rounded-md border-l-4 border-l-blue-800 mb-4 outline-none bg-[#B9CFF8] placeholder-[#3B5998]" placeholder="Purchase History Limit">
     </div>

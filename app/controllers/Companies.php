@@ -95,17 +95,22 @@ class Companies extends Controller {
         // send($to, $message, $model, $id)
         $customers = $this->companyModel->getCustomers($_SESSION["user"]);
 
-        $this->view("success");
+        $recepients = array();
 
+       
         foreach($customers as $customer) {
             $customer->p_history = array_map("intval", explode(",", $customer->p_history));
             $last = $customer->p_history[count($customer->p_history) - 1];
 
             if($last >= $_POST["limit"]) {
-                
-                $this->sms->send($customer->contact, $_POST["advert"], $this->companyModel, $_SESSION["user"]);
-            }
+                $array = ["to" => $customer->contact];
+                array_push($recepients, $array);
+            };
         }
+
+        $this->sms->send($recepients, $_POST["advert"], $this->companyModel, $_SESSION["user"]);
+
+        $this->view("success");
 
         // header("Location: " . APP_URL);
     }

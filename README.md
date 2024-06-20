@@ -1,2 +1,0 @@
-# Market Queue
-Market Queue is an app that intergrates messaging system which enables bulk advertisement delivery through sms. The idea was birthed by the need for efficient and secure messaging platforms.

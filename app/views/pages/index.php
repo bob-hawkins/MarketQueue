@@ -79,7 +79,7 @@
 </div>
 
 <div class="p-2">
-    <div class="w-2xl h-48 rounded-lg shadow-md mx-auto max-w-lg border mb-4">
+    <div class="w-2xl h-48 rounded-lg shadow-blue-200 shadow-md mx-auto max-w-lg border mb-4">
             <h1 class="text-xl sm:text-2xl font-bold p-2 text-[#3B5998] text-center mt-2">Advertisements</h1>
 
         <div class="w-full h-full p-2 text-center -mt-2">

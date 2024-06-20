@@ -26,9 +26,7 @@ class Sms {
         $body = json_encode([
             "messages" => [
                 [
-                    "destinations" => [
-                        ["to" => $to]
-                    ],
+                    "destinations" => $to,
                     "from" => "MarketQueue",
                     "text" => $message
                 ]
